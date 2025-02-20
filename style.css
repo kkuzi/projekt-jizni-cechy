@@ -44,7 +44,8 @@ article {
 }
 .uvod p {
     font-size: 24px;
-    color: #808080;  
+    color: #808080; 
+    font-style: italic; 
 }
 .uvod-foto {
     width: 300px;
